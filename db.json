@@ -1,6 +1,17 @@
 {
-  "posts": [
+  "classes": [
     {
+      "id": 1,
+      "letters": [
+{"letter": "A",
+"schedule":{"Monday":[{"1":"Gramota"},{}]},
+"Tuesday":[]}
+},
+{},
+{}	
+]
+    },
+{
       "id": 1,
       "title": "hello"
     }
